@@ -1,0 +1,5 @@
+/generate_md.sh
+/repository_contents.md
+
+*.o
+server
